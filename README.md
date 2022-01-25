@@ -17,4 +17,5 @@ Foi criado dentro do projeto um arquivo  `Dockerfile`  contendo o passo-a-passo 
     CMD [ "./main" ]
 
 > Para conseguir cumprir o desafio foi utilizada uma imagem chamada scratch que nada mais é que uma imagem super enxuta para ser utilizada em aplicações binárias de execução simples como a do desafio
+
 >  O nome da imagem que foi criada e disponibilizada no ***Doker Hub*** foi: `nossadiretiva/fullcycle-go`
